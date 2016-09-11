@@ -1,0 +1,15 @@
+
+.page-title {
+width:	1010px;
+height: 82px;
+font-size: 34px;
+letter-spacing: 0.4px;
+color: #ffffff;
+}
+
+
+.background {
+	width: 1920px;
+	height: 1024px;
+	object-fit: contain;
+}
