@@ -1,15 +1,25 @@
 
-.page-title {
-width:	1010px;
-height: 82px;
-font-size: 34px;
-letter-spacing: 0.4px;
-color: #ffffff;
-}
-
 
 .background {
 	width: 1920px;
 	height: 1024px;
 	object-fit: contain;
+	background-size: cover;
 }
+
+
+.page-title {
+	width: 260px;
+	height: 42px;
+	font-size: 42px;
+	object-fit: contain;
+	}
+
+.wrapper-phone {
+	width: 411,2px;
+	height: 377px;
+	object-fit: contain;
+	padding-bottom: 0px;
+	padding-top: 40px;
+	}
+
