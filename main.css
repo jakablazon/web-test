@@ -16,10 +16,21 @@
 	}
 
 .wrapper-phone {
-	width: 411,2px;
+	width: 411px;
 	height: 377px;
 	object-fit: contain;
 	padding-bottom: 0px;
-	padding-top: 40px;
+	padding-top: 400px;
+	margin: 0 auto;
 	}
 
+body {
+	background-image: url('assets/mindbeat-background.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+html{
+	height: 100%;
+	color: #fff;
+}
