@@ -6,6 +6,7 @@ body {
 	background-size: cover;
 	height: 100%;
 	padding-top: 80px;
+	font-family: 'Open Sans', sans-serif;
 }
 html{
 	height: 100%;
@@ -28,18 +29,22 @@ html{
 	height: auto;
 }
 
-.page-title {
-	width: 260px;
-	height: 42px;
-	font-size: 42px;
-	object-fit: contain;
-	}
+.page-title img {
+	width: 236px;
+	height: auto;
+}
 
 .page-title {
+	text-align: center;
+	padding-top: 34px;
+	}
+
+.page-description h1 {
 	font-size: 34px;
-	line-height: 1.1;
-	letter-spacing: 0.4px;
-	color: #ffffff;
+	color: #fff;
+	text-align: center;
+	font-weight: normal;
+	padding: 0 15px;
 }
 
 .wrapper-phone {
