@@ -43,11 +43,23 @@ html{
 	padding: 0 15px;
 }
 
+.mindbeat-blog {
+
+	font-size: 18px;
+	font-weight: normal;
+	letter-spacing: 0.2px;
+	color: #fff;
+	text-align: center;
+	margin: top 29px;
+	cursor: pointer;
+
+}
+
 .wrapper-phone {
 	width: 411px;
 	height: auto;
 	padding-bottom: 0px;
-	padding-top: 180px;
+	padding-top: 61px;
 	margin: 0 auto;
 	}
 
@@ -76,7 +88,9 @@ html{
 	color: white;
 	font-size: 18px;
 	text-transform: uppercase;
-
+	cursor: pointer;
 }
+
+
 
 
