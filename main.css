@@ -16,6 +16,13 @@ html{
 	background-size: cover;
 }
 
+.coming-soon img{
+	height: auto;
+	margin-top: 0px;
+	margin-right: 0px;
+
+}
+
 .logo-mindbeat {
 	text-align: center;
 }
