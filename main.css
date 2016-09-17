@@ -16,11 +16,10 @@ html{
 	background-size: cover;
 }
 
-.coming-soon img{
+.coming-soon img {
+	width: 204px;
 	height: auto;
-	margin-top: 0px;
-	margin-right: 0px;
-
+	position: top-right;
 }
 
 .logo-mindbeat {
